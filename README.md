@@ -8,23 +8,18 @@ This calculator is written in Python and runs in the terminal. The program asks 
 
 
 ## Features
-- User inputs two numbers
-- Supports:
-      Addition (+)
-      Subtraction (-)
-      Multiplication (*)
-      Division (/)
-      Exponents (**)
-- Division allows:
-      - Whole number or decimal results
-      - Optional remainder
-- Displays the full equation
-Example: Calculation: 8 * 3 = 24
-Handles division by zero
-## Technologies Used
+- allows users to input 2 numbers
+- Can run 5 math operations (addition, subtraction, multiplication, division, exponents)
+- Asks users if they want whole numbers or decimals when doing division
+- Outputs the entire equation
 
+## Technologies Used
+- Python
 
 ## Future Improvements
-
+- Add a calculation history feature
+- Save calculations to be able to use later
+- Add other operations like log
 
 ## License
+MIT License
